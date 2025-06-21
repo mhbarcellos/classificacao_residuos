@@ -1,0 +1,19 @@
+# Ignorar dados e modelos pesados
+data/
+outputs/
+results/
+
+models/*.h5
+models/*.pkl
+models/*.npy
+
+# Cache e arquivos temporários
+__pycache__/
+*.pyc
+
+# Notebooks temporários
+.ipynb_checkpoints/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
