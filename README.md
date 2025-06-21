@@ -1,7 +1,7 @@
 
 # Classificador de Resíduos Recicláveis
 
-Este projeto tem como objetivo desenvolver um classificador de resíduos utilizando técnicas de **Machine Learning** e **Visão Computacional**. Através de imagens, o modelo é capaz de identificar automaticamente o tipo de resíduo, como papel, plástico, vidro, metal, papelão, entre outros.
+Este projeto tem como objetivo desenvolver um classificador de resíduos utilizando técnicas de Machine Learning e Visão Computacional. Através de imagens, o modelo é capaz de identificar automaticamente o tipo de resíduo, como papel, plástico, vidro, metal, papelão, entre outros.
 
 ## Tecnologias e Modelos Utilizados
 
@@ -31,7 +31,7 @@ classificacao_residuos/
 
 1. Clone este repositório:
 ```
-git clone https://github.com/usuario/classificacao_residuos.git
+git clone https://github.com/mhbarcellos/classificacao_residuos.git
 ```
 
 2. Instale as dependências:
